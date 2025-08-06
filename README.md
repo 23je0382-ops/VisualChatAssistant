@@ -70,10 +70,10 @@ pip install opencv-python pillow tqdm
    cap.release()
    ```
 
-2. **Run the Main Pipeline**
+2. **Run the frontend Pipeline**
 
    ```bash
-   python main.py
+   python frontend.py
    ```
 
 3. **View the Output**  
