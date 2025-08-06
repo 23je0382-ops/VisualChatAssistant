@@ -41,10 +41,7 @@ This project performs **intelligent video summarization** by combining object de
 ### Install Dependencies
 
 ```bash
-pip install torch torchvision torchaudio
-pip install transformers
-pip install ultralytics
-pip install opencv-python pillow tqdm
+pip install -r requirments.txt
 ```
 
 ---
